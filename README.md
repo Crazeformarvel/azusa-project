@@ -5,19 +5,6 @@
 
 These examples are hosted by [GitHub Pages](https://pages.github.com). You can make edits with GitHub or [Siteleaf](https://www.siteleaf.com). *Ask Jim for an invitation.*
 
-### [Sierra High School](http://sierrahighschool.jimthoburn.com)
-
-* [Home](http://sierrahighschool.jimthoburn.com)
-* [About](http://sierrahighschool.jimthoburn.com/about)
-* [Courses](http://sierrahighschool.jimthoburn.com/academics)
-* [Staff](http://sierrahighschool.jimthoburn.com/staff)
-* [PBIS](http://sierrahighschool.jimthoburn.com/pbis)
-* [News](http://sierrahighschool.jimthoburn.com/news)
-* [Calendar](http://sierrahighschool.jimthoburn.com/calendar)
-* [Bell Schedule](http://sierrahighschool.jimthoburn.com/schedule)
-* [Parents & Students](http://sierrahighschool.jimthoburn.com/parents)
-* [Page Not Found (404)](http://sierrahighschool.jimthoburn.com/404)
-
 ### [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
 
 * [Home](http://gladstonehighschool.jimthoburn.com)
@@ -39,6 +26,19 @@ These examples are hosted by [GitHub Pages](https://pages.github.com). You can m
 * [Student Life](http://azusahighschool.jimthoburn.com/life/)
 * [Athletics](http://azusahighschool.jimthoburn.com/athletics/)
 * [Partnerships](http://azusahighschool.jimthoburn.com/partnerships/)
+
+### [Sierra High School](http://sierrahighschool.jimthoburn.com)
+
+* [Home](http://sierrahighschool.jimthoburn.com)
+* [About](http://sierrahighschool.jimthoburn.com/about)
+* [Courses](http://sierrahighschool.jimthoburn.com/academics)
+* [Staff](http://sierrahighschool.jimthoburn.com/staff)
+* [PBIS](http://sierrahighschool.jimthoburn.com/pbis)
+* [News](http://sierrahighschool.jimthoburn.com/news)
+* [Calendar](http://sierrahighschool.jimthoburn.com/calendar)
+* [Bell Schedule](http://sierrahighschool.jimthoburn.com/schedule)
+* [Parents & Students](http://sierrahighschool.jimthoburn.com/parents)
+* [Page Not Found (404)](http://sierrahighschool.jimthoburn.com/404)
 
 ## Notes
 
