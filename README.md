@@ -3,21 +3,42 @@
 
 ## Website Prototypes
 
-### Made with GitHub
+These examples are hosted by [GitHub Pages](https://pages.github.com). You can make edits with GitHub or [Siteleaf](https://www.siteleaf.com). *Ask Jim for an invitation.*
 
-* [Sierra High School](http://sierrahighschool.jimthoburn.com)
-* [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
-* [Azusa High School](http://azusahighschool.jimthoburn.com)
+### [Sierra High School](http://sierrahighschool.jimthoburn.com)
 
-Here’s a list of [all the pages](https://jimthoburn.github.io/azusa-project/).
+* [Home](http://sierrahighschool.jimthoburn.com)
+* [About](http://sierrahighschool.jimthoburn.com/about)
+* [Courses](http://sierrahighschool.jimthoburn.com/academics)
+* [Staff](http://sierrahighschool.jimthoburn.com/staff)
+* [PBIS](http://sierrahighschool.jimthoburn.com/pbis)
+* [News](http://sierrahighschool.jimthoburn.com/news)
+* [Calendar](http://sierrahighschool.jimthoburn.com/calendar)
+* [Bell Schedule](http://sierrahighschool.jimthoburn.com/schedule)
+* [Parents & Students](http://sierrahighschool.jimthoburn.com/parents)
+* [Page Not Found (404)](http://sierrahighschool.jimthoburn.com/404)
 
-These examples are hosted by [GitHub Pages](https://pages.github.com). You can make edits with GitHub or [Siteleaf](https://www.siteleaf.com). (Ask Jim for an invitation, if you don’t have one yet.)
+### [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
 
-### Made with School Loop
+* [Home](http://gladstonehighschool.jimthoburn.com)
+* [About](http://gladstonehighschool.jimthoburn.com/about/)
+* [Academics](http://gladstonehighschool.jimthoburn.com/academics/)
+* [Staff](http://gladstonehighschool.jimthoburn.com/staff/)
+* [Support & Wellness](http://gladstonehighschool.jimthoburn.com/wellness/)
+* [Student Life](http://gladstonehighschool.jimthoburn.com/life/)
+* [Athletics](http://gladstonehighschool.jimthoburn.com/athletics/)
+* [Partnerships](http://gladstonehighschool.jimthoburn.com/partnerships/)
 
-* [Sierra High School](http://shs-ausd-ca.mirror.schoolloop.com)
+### [Azusa High School](http://azusahighschool.jimthoburn.com)
 
-This example is hosted by [School Loop](http://www.schoolloop.com). It’s a copy of the original [Sierra High School](http://shs-ausd-ca.schoolloop.com) website, with new styles and images.
+* [Home](http://azusahighschool.jimthoburn.com)
+* [About](http://azusahighschool.jimthoburn.com/about/)
+* [Academics](http://azusahighschool.jimthoburn.com/academics/)
+* [Staff](http://azusahighschool.jimthoburn.com/staff/)
+* [Support & Wellness](http://azusahighschool.jimthoburn.com/wellness/)
+* [Student Life](http://azusahighschool.jimthoburn.com/life/)
+* [Athletics](http://azusahighschool.jimthoburn.com/athletics/)
+* [Partnerships](http://azusahighschool.jimthoburn.com/partnerships/)
 
 ## Notes
 
