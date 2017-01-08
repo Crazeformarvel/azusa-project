@@ -9,7 +9,7 @@
 * [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
 * [Azusa High School](http://azusahighschool.jimthoburn.com)
 
-Here’s a list of [all the pages](https://jimthoburn.github.io/azusa-project/)
+Here’s a list of [all the pages](https://jimthoburn.github.io/azusa-project/).
 
 These examples are hosted by [GitHub Pages](https://pages.github.com). You can make edits with GitHub or [Siteleaf](https://www.siteleaf.com). (Ask Jim for an invitation, if you don’t have one yet.)
 
