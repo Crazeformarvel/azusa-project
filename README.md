@@ -9,7 +9,7 @@
 * [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
 * [Azusa High School](http://azusahighschool.jimthoburn.com)
 
-These are hosted by [GitHub Pages](https://pages.github.com). You can make edits to these sites with [Siteleaf](https://www.siteleaf.com).
+These examples are hosted by [GitHub Pages](https://pages.github.com). You can make edits with GitHub or [Siteleaf](https://www.siteleaf.com).
 
 ### Made with School Loop
 
