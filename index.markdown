@@ -6,6 +6,9 @@ layout: default
 
 ## Website Prototypes
 
+<section>
+<section markdown="1">
+
 ### [Sierra High School](http://sierrahighschool.jimthoburn.com)
 
 * [Home](http://sierrahighschool.jimthoburn.com)
@@ -19,6 +22,9 @@ layout: default
 * [Parents & Students](http://sierrahighschool.jimthoburn.com/parents)
 * [Page Not Found (404)](http://sierrahighschool.jimthoburn.com/404)
 
+</section>
+<section markdown="1">
+
 ### [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
 
 * [Home](http://gladstonehighschool.jimthoburn.com)
@@ -30,6 +36,9 @@ layout: default
 * [Staff](http://gladstonehighschool.jimthoburn.com/staff/)
 * [About](http://gladstonehighschool.jimthoburn.com/about/)
 
+</section>
+<section markdown="1">
+
 ### [Azusa High School](http://azusahighschool.jimthoburn.com)
 
 * [Home](http://azusahighschool.jimthoburn.com)
@@ -40,3 +49,6 @@ layout: default
 * [Partnerships](http://azusahighschool.jimthoburn.com/partnerships/)
 * [Staff](http://azusahighschool.jimthoburn.com/staff/)
 * [About](http://azusahighschool.jimthoburn.com/about/)
+
+</section>
+</section>
