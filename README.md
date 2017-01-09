@@ -12,7 +12,7 @@ These are hosted by [GitHub Pages](https://pages.github.com). You can make edits
 
 ### Secondary Pages
 
-These are copies of the original websites on School Loop, with new styles and images.
+These are copies of the original websites on School Loop, with new styles and images (so that they’ll match the key pages).
 
 * [Sierra High School](http://shs-ausd-ca.mirror.schoolloop.com)
 * [Gladstone High School](https://jimthoburn.github.io/gladstone-school-loop/)
