@@ -2,7 +2,7 @@
 
 ## Website Prototypes
 
-### Made with GitHub
+### Key Pages
 
 These are hosted by [GitHub Pages](https://pages.github.com). You can make edits to these sites with [Siteleaf](https://www.siteleaf.com).
 
@@ -10,7 +10,7 @@ These are hosted by [GitHub Pages](https://pages.github.com). You can make edits
 * [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
 * [Azusa High School](http://azusahighschool.jimthoburn.com)
 
-### Made with School Loop
+### Secondary Pages
 
 These are copies of the original websites on School Loop, with new styles and images.
 
