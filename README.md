@@ -16,6 +16,7 @@ These are copies of the original websites on School Loop, with new styles and im
 
 * [Sierra High School](http://shs-ausd-ca.mirror.schoolloop.com)
 * [Gladstone High School](https://jimthoburn.github.io/gladstone-school-loop/)
+* [Azusa High School](https://jimthoburn.github.io/azusa-school-loop/)
 
 ## Notes
 
