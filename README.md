@@ -2,6 +2,8 @@
 
 ## Website Prototypes
 
+View the [full list of pages](https://jimthoburn.github.io/azusa-project/)
+
 ### Key Pages
 
 These are hosted by [GitHub Pages](https://pages.github.com). You can make edits to these sites with [Siteleaf](https://www.siteleaf.com).
