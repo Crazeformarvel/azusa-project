@@ -1,6 +1,6 @@
 # Azusa Unified School District
 
-## Design Prototypes
+## Website Prototypes
 
 ### Key Pages
 
