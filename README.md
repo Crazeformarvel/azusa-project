@@ -4,7 +4,7 @@
 
 ### Key Pages
 
-These are hosted by [GitHub Pages](https://pages.github.com). You can make edits to these sites with [Siteleaf](https://www.siteleaf.com).
+These are hosted by [GitHub Pages](https://pages.github.com). You can edit these pages with [Siteleaf](https://www.siteleaf.com).
 
 * [Sierra High School](http://sierrahighschool.jimthoburn.com)
 * [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
