@@ -17,7 +17,7 @@ View the [full list of pages](https://jimthoburn.github.io/azusa-project/)
 These are copies of the original websites on School Loop, with new styles and images (so that they’ll match the key pages).
 
 * [Sierra High School](http://shs-ausd-ca.mirror.schoolloop.com)
-* [Gladstone High School](https://jimthoburn.github.io/gladstone-school-loop/)
+* [Gladstone High School](http://info.gladstonehighschool.jimthoburn.com)
 * [Azusa High School](https://jimthoburn.github.io/azusa-school-loop/)
 
 ## Notes
