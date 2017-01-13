@@ -2,23 +2,9 @@
 
 ## Website Prototypes
 
-### Key Pages
-
-These are hosted by [GitHub Pages](https://pages.github.com). You can edit these pages with [Siteleaf](https://www.siteleaf.com).
-
-* [Sierra High School](http://sierrahighschool.jimthoburn.com)
-* [Gladstone High School](http://gladstonehighschool.jimthoburn.com)
-* [Azusa High School](http://azusahighschool.jimthoburn.com)
-
-View the [full list of pages](https://jimthoburn.github.io/azusa-project/)
-
-### Secondary Pages
-
-These are copies of the original websites on School Loop, with new styles and images (so that they’ll match the key pages).
-
-* [Sierra High School](http://shs-ausd-ca.mirror.schoolloop.com)
-* [Gladstone High School](http://info.gladstonehighschool.jimthoburn.com)
-* [Azusa High School](http://info.azusahighschool.jimthoburn.com)
+* [Sierra High School](http://azusa.jimthoburn.com/sierra-high-school)
+* [Gladstone High School](http://azusa.jimthoburn.com/gladstone-high-school)
+* [Azusa High School](http://azusa.jimthoburn.com/azusa-high-school)
 
 ## Notes
 
