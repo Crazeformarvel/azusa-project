@@ -1,6 +1,6 @@
 # Azusa Unified School District
 
-## Website Prototypes
+## Web Prototypes
 
 * [Sierra High School](http://azusa.jimthoburn.com/sierra-high-school)
 * [Gladstone High School](http://azusa.jimthoburn.com/gladstone-high-school)
