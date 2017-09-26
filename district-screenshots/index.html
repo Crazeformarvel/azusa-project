@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Design Prototypes / Azusa Unified School District</title>
+  <style type="text/css">
+    html, body, #outer-outer-container, #outer-container {
+      height: 100%;
+      min-height: 100%;
+    }
+    body {
+      font: 125%/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+      margin: 0;
+      background: rgb(244, 245, 244);
+      background: rgb(232, 232, 232);
+      color: rgb(0, 1, 0); /* @text-color */
+    }
+    header h1 {
+      margin-bottom: 0;
+    }
+    header h1 a,
+    header h1 a:visited {
+      color: inherit;
+    }
+    header h2 {
+      margin-top: 0;
+      font-style: normal;
+      color: #999;
+    }
+    a[href] {
+      color: rgb(110, 160, 26); /* @link-color */
+    }
+    a[href]:hover,
+    a[href]:active,
+    a[href]:focus {
+      text-decoration: underline;
+    }
+    a[href]:visited {
+      color: #333;
+    }
+    ul, li {
+      list-style: none;
+      margin-left: 0;
+      padding-left: 0;
+    }
+    h3 {
+      margin-bottom: 0;
+    }
+    ul {
+      margin-top: 0.5em;
+      padding-left: 0.5em;
+    }
+    #container {
+      margin: 50px auto;
+    }
+    #outer-outer-container {
+      margin: 0 auto;
+      display: table;
+      padding: 2em;
+    }
+    #outer-container {
+      display: table-cell;
+      vertical-align: middle;
+      margin: 0 auto;
+    }
+    #container > section > section {
+      float: left;
+      margin-right: 3em;
+    }
+    ul {
+      margin-top: 3em;
+      display: flex;
+      flex-wrap: wrap;
+      /*
+      justify-content: space-around;
+      */
+      align-items: flex-start;
+    }
+    li {
+      margin-bottom: 3em;
+      color: #bbb;
+      flex-grow: 0;
+      flex-shrink: 0;
+      margin-left: 0.75em;
+      margin-right: 0.75em;
+      text-align: center;
+    }
+    li img {
+      display: block;
+      margin-top: 0.75em;
+      max-width: 100%;
+      height: auto;
+      width: 30em;
+    }
+    .new a {
+      color: #a93c44;
+    }
+    p {
+      max-width: 33em;
+    }
+  </style>
+</head>
+<body>
+  <div id="outer-outer-container">
+    <div id="outer-container">
+      <div id="container">
+
+        <header>
+          <h1>Azusa Unified School District</h1>
+          <h2>Design Prototypes</h2>
+          <!--
+          <p><a href="https://github.com/jimthoburn/congress">Download files on GitHub</a></p>
+          -->
+        </header>
+
+        <section>
+          <section>
+            <h2>School Loop</h2>
+            <p>This is an example of how the School Loop website could look with a new header and updated colors.</p>
+            <ul>
+              <li>
+                <a href="http://info.azusadistrict.jimthoburn.com">
+                <img src="screenshots/school-loop-home.png" width="300" alt="" />
+                Home
+                </a>
+              </li>
+              <li>
+                <a href="http://info.azusadistrict.jimthoburn.com/ourdistrict/">
+                <img src="screenshots/school-loop-about.png" width="300" alt="" />
+                About our district
+                </a>
+              </li>
+            </ul>
+          </section>
+        </section>
+
+        <div style="clear: both"></div>
+
+        <section>
+          <section>
+            <h2>Digital Brochure</h2>
+            <p>This is a redesign of the main pages–to make them easier to use on phones and tablets.</p>
+            <p>If desired, these pages can be used together with the School Loop website by linking from one website to the other. This will require some extra effort by Azusa’s staff.</p>
+            <ul>
+              <li>
+                <a href="http://azusadistrict.jimthoburn.com">
+                <img src="screenshots/home-responsive.png" width="300" alt="" />
+                Home
+                </a>
+              </li>
+              <li>
+                <a href="http://azusadistrict.jimthoburn.com/about/">
+                <img src="screenshots/about-responsive.png" width="300" alt="" />
+                About our district
+                </a>
+              </li>
+            </ul>
+          </section>
+        </section>
+
+        <div style="clear: both"></div>
+
+        <section>
+          <section>
+            <h2>Hosting and CMS</h2>
+            <p>The digital brochure is hosted for free on <a href="https://pages.github.com">GitHub</a>, and can be updated with a content management system called Siteleaf.</p>
+            <ul>
+              <li>
+                <a href="https://siteleaf.com">
+                <img src="screenshots/site-leaf-pages.png" width="300" alt="" />
+                List of Pages
+                </a>
+              </li>
+              <li>
+                <a href="https://www.siteleaf.com">
+                <img src="screenshots/site-leaf-edit.png" width="300" alt="" />
+                Editing a page
+                </a>
+              </li>
+              <li>
+                <a href="https://siteleaf.com">
+                <img src="screenshots/site-leaf.png" width="300" alt="" />
+                Siteleaf CMS
+                </a>
+              </li>
+              <li>
+                <a href="https://pages.github.com">
+                <img src="screenshots/github.png" width="300" alt="" />
+                GitHub Hosting
+                </a>
+              </li>
+            </ul>
+          </section>
+        </section>
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>
