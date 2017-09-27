@@ -4,17 +4,33 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Design Prototypes / Gladstone High School</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i|Source+Sans+Pro:400,400i,700,700i" rel="stylesheet" />
   <style type="text/css">
     html, body, #outer-outer-container, #outer-container {
       height: 100%;
       min-height: 100%;
     }
     body {
-      font: 125%/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font: 125%/1.5 "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
       margin: 0;
       background: rgb(244, 245, 244);
       background: rgb(232, 232, 232);
       color: rgb(0, 1, 0); /* @text-color */
+      text-align: center;
+    }
+    h1, h2, h3, h4 {
+      font-family: Merriweather, "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.5em;
+    }
+    h3 {
+      margin-top: 3em;
+      font-size: 3em;
     }
     header h1 {
       margin-bottom: 0;
@@ -64,18 +80,17 @@
       vertical-align: middle;
       margin: 0 auto;
     }
+    /*
     #container > section > section {
       float: left;
       margin-right: 3em;
     }
+    */
     ul {
       margin-top: 3em;
       display: flex;
       flex-wrap: wrap;
-      /*
       justify-content: space-around;
-      */
-      align-items: flex-start;
     }
     li {
       margin-bottom: 3em;
@@ -98,6 +113,8 @@
     }
     p {
       max-width: 33em;
+      margin-left: auto;
+      margin-right: auto;
     }
   </style>
 </head>
@@ -116,8 +133,8 @@
 
         <section>
           <section>
-            <h2>School Loop</h2>
-            <p>This is an example of how the School Loop website could look with a new header and updated colors.</p>
+            <h3>School Loop Website</h3>
+            <p>This is an example of how the <a href="http://ghs-ausd-ca.schoolloop.com">School Loop website</a> could look with a new header and updated colors.</p>
             <ul>
               <li>
                 <a href="http://info.gladstonehigh.jimthoburn.com">
@@ -126,9 +143,15 @@
                 </a>
               </li>
               <li>
-                <a href="http://info.gladstonehigh.jimthoburn.com/ourdistrict/">
+                <a href="http://info.gladstonehigh.jimthoburn.com/administration/">
+                <img src="screenshots/staff-school-loop.png" width="300" alt="" />
+                Staff
+                </a>
+              </li>
+              <li>
+                <a href="http://info.gladstonehigh.jimthoburn.com/ghsgeneralinformation/">
                 <img src="screenshots/about-school-loop.png" width="300" alt="" />
-                About our district
+                About our school
                 </a>
               </li>
               <li>
@@ -151,9 +174,9 @@
 
         <section>
           <section>
-            <h2>Digital Brochure</h2>
+            <h3>Digital Brochure Website</h3>
             <p>This is a redesign of the main pages–to make them easier to use on phones and tablets.</p>
-            <p>If desired, these pages can be used together with the School Loop website by linking from one website to the other. This will require some extra effort by Azusa, since there will be two websites to maintain.</p>
+            <p>If desired, the digital brochure can be used together with the School Loop website by linking from one website to the other. This will require some extra effort by Azusa, since there will be two websites to maintain.</p>
             <ul>
               <li>
                 <a href="http://gladstonehigh.jimthoburn.com">
@@ -162,21 +185,51 @@
                 </a>
               </li>
               <li>
-                <a href="http://gladstonehigh.jimthoburn.com/about/">
-                <img src="screenshots/about-responsive.png" width="300" alt="" />
-                About our district
+                <a href="http://gladstonehigh.jimthoburn.com/staff/">
+                <img src="screenshots/staff-responsive.png" width="300" alt="" />
+                Staff
                 </a>
               </li>
               <li>
-                <a href="http://gladstonehigh.jimthoburn.com/student-life/">
+                <a href="http://gladstonehigh.jimthoburn.com/about/">
+                <img src="screenshots/about-responsive.png" width="300" alt="" />
+                About our school
+                </a>
+              </li>
+              <li>
+                <a href="http://gladstonehigh.jimthoburn.com/life/">
                 <img src="screenshots/activities-responsive.png" width="300" alt="" />
                 Activities
                 </a>
               </li>
               <li>
-                <a href="http://gladstonehigh.jimthoburn.com/atheltics/">
+                <a href="http://gladstonehigh.jimthoburn.com/athletics/">
                 <img src="screenshots/athletics-responsive.png" width="300" alt="" />
                 Athletics
+                </a>
+              </li>
+              <li>
+                <a href="http://gladstonehigh.jimthoburn.com/soccer/">
+                <img src="screenshots/soccer.png" width="300" alt="" />
+                Soccer
+                </a>
+              </li>
+              <li>
+                <a href="http://gladstonehigh.jimthoburn.com/wellness/">
+                <img src="screenshots/wellness.png" width="300" alt="" />
+                Support &amp; Wellness Programs
+                </a>
+              </li>
+              <li>
+                <a href="http://gladstonehigh.jimthoburn.com/academics/">
+                <img src="screenshots/academics.png" width="300" alt="" />
+                Academics
+                </a>
+              </li>
+              <li>
+                <a href="http://gladstonehigh.jimthoburn.com/partnerships/">
+                <img src="screenshots/partnerships.png" width="300" alt="" />
+                Partnerships
                 </a>
               </li>
             </ul>
@@ -187,7 +240,7 @@
 
         <section>
           <section>
-            <h2>Hosting and CMS</h2>
+            <h3>Hosting &amp; CMS</h3>
             <p>The digital brochure is hosted for free on <a href="https://pages.github.com">GitHub</a>, and can be updated with a content management system called <a href="https://www.siteleaf.com">Siteleaf</a>.</p>
             <ul>
               <li>
