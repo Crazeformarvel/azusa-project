@@ -8,6 +8,9 @@
     margin: 0;
     padding: 0;
   }
+  h1, h2, h3, h4 {
+    font-family: Merriweather, "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
   a {
     color: inherit;
   }
@@ -61,6 +64,10 @@
     right: 0;
     position: fixed;
     z-index: -1;   
+  }
+  .pattern header {
+    padding-top: 3em;
+    padding-bottom: 3em;
   }
   header.pattern nav,
   .pattern.index h1,
@@ -144,17 +151,11 @@
     background-color: black;
   }
   .pattern.index h1 {
-    font-weight: inherit;
-  }
-  .pattern.index h1 {
-    font-weight: 300;
-    font-size: 3em;
+    font-size: 1.5em;
     margin-top: 1em;
     margin-bottom: 0;
   }
   .pattern-list h2 {
-    font-weight: bold;
-    font-family: inherit;
     font-size: 1.25em;
     line-height: inherit;
   }
@@ -238,23 +239,8 @@
     margin-top: 1.5em;
   }
 
-  h1, body > header h2, body > footer h2 {
-    text-transform: uppercase;
-    font-family: "Roboto Slab", "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
-    font-weight: 300;
-  }
-
-  h1 strong, , body > header h2 strong, body > footer h2 strong {
-    font-weight: 400;
-  }
-
-  h1, h2 {
-    font-family: "Roboto Slab", "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
-    font-weight: 300;
-  }
-
   h1 {
-    font-size: 2.5em;
+    font-size: 1.5em;
     line-height: 1.25;
     margin-top: 0.6em;
     margin-bottom: 0.3em;
@@ -277,14 +263,15 @@
   */
 
   h2 {
-    font-size: 2em;
+    font-size: 1em;
     line-height: 1.125;
-    margin-top: 1.5em;
+    margin-top: 0;
     margin-bottom: 0.375em;
+    opacity: 0.5;
   }
 
   h3 {
-    font-size: 1.5em;
+    font-size: 1em;
     margin-top: 1em;
     margin-bottom: 0.5em;
   }
