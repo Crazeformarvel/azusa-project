@@ -1,0 +1,250 @@
+---
+---
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Website Design Preview / Slauson Middle School</title>
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i|Source+Sans+Pro:400,400i,700,700i" rel="stylesheet" />
+  <style type="text/css">
+    html, body, #outer-outer-container, #outer-container {
+      height: 100%;
+      min-height: 100%;
+    }
+    body {
+      font: 125%/1.5 "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      margin: 0;
+      background: rgb(244, 245, 244);
+      background: rgb(232, 232, 232);
+      color: rgb(0, 1, 0); /* @text-color */
+      text-align: center;
+    }
+    h1, h2, h3, h4 {
+      font-family: Merriweather, "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.5em;
+    }
+    h3 {
+      margin-top: 3em;
+      font-size: 3em;
+    }
+    header h1 {
+      margin-bottom: 0;
+    }
+    header h1 a,
+    header h1 a:visited {
+      color: inherit;
+    }
+    header h2 {
+      margin-top: 0;
+      font-style: normal;
+      color: #999;
+    }
+    a[href] {
+      color: rgb(110, 160, 26); /* @link-color */
+    }
+    a[href]:hover,
+    a[href]:active,
+    a[href]:focus {
+      text-decoration: underline;
+    }
+    a[href]:visited {
+      color: #333;
+    }
+    ul, li {
+      list-style: none;
+      margin-left: 0;
+      padding-left: 0;
+    }
+    h3 {
+      margin-bottom: 0;
+    }
+    ul {
+      margin-top: 0.5em;
+      padding-left: 0.5em;
+    }
+    #container {
+      margin: 50px auto;
+    }
+    #outer-outer-container {
+      margin: 0 auto;
+      padding: 2em;
+    }
+    #outer-container {
+      margin: 0 auto;
+    }
+    /*
+    #container > section > section {
+      float: left;
+      margin-right: 3em;
+    }
+    */
+    ul {
+      margin-top: 3em;
+    }
+    li {
+      margin-bottom: 3em;
+      color: #bbb;
+      display: inline-block;
+      margin-left: 0.75em;
+      margin-right: 0.75em;
+      text-align: center;
+    }
+    li img {
+      display: block;
+      margin-top: 0.75em;
+      max-width: 100%;
+      height: auto;
+      width: 30em;
+    }
+    .new a {
+      color: #a93c44;
+    }
+    p {
+      max-width: 33em;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="outer-outer-container">
+    <div id="outer-container">
+      <div id="container">
+
+        <header>
+          <h1>Slauson Middle School</h1>
+          <h2>Website Design Preview</h2>
+          <!--
+          <p><a href="https://github.com/jimthoburn/congress">Download files on GitHub</a></p>
+          -->
+        </header>
+
+        <section>
+          <section>
+            <h3>School Loop Website</h3>
+            <p>This is an example of how the <a href="http://sms-ausd-ca.schoolloop.com">School Loop website</a> could look with updated colors and photos at the top of each page.</p>
+            <ul>
+              <li>
+                <a href="http://info.slausonmiddle.jimthoburn.com">
+                <img src="screenshots/home.png" width="300" alt="" />
+                Home
+                </a>
+              </li>
+              <li>
+                <a href="http://info.slausonmiddle.jimthoburn.com/parents/">
+                <img src="screenshots/school.png" width="300" alt="" />
+                General School Information
+                </a>
+              </li>
+              <li>
+                <a href="http://info.slausonmiddle.jimthoburn.com/news/">
+                <img src="screenshots/news.png" width="300" alt="" />
+                News
+                </a>
+              </li>
+              <li>
+                <a href="http://info.slausonmiddle.jimthoburn.com/cms/page_view-d=x&piid=&vpid=1475140629536/">
+                <img src="screenshots/guidance.png" width="300" alt="" />
+                Guidance
+                </a>
+              </li>
+            </ul>
+          </section>
+        </section>
+
+        {% comment %}
+        <div style="clear: both"></div>
+
+        <section>
+          <section>
+            <h3>Responsive Website</h3>
+            <p>This is a new website designed to be easy to use on phones and tablets.</p>
+            <p>The responsive website can be used by itself, or together with School Loop by adding links from one website to the other.</p>
+            <ul>
+              <li>
+                <a href="http://azusadistrict.jimthoburn.com">
+                <img src="screenshots/home-responsive.png" width="300" alt="" />
+                Home
+                </a>
+              </li>
+              <li>
+                <a href="http://azusadistrict.jimthoburn.com/about/">
+                <img src="screenshots/about-responsive.png" width="300" alt="" />
+                About our district
+                </a>
+              </li>
+              <li>
+                <a href="http://azusadistrict.jimthoburn.com/board/">
+                <img src="screenshots/board-responsive.png" width="300" alt="" />
+                Board of Education
+                </a>
+              </li>
+              <li>
+                <a href="http://azusadistrict.jimthoburn.com/superintendent/">
+                <img src="screenshots/superintendent-responsive.png" width="300" alt="" />
+                Superintendent
+                </a>
+              </li>
+              <li>
+                <a href="http://azusadistrict.jimthoburn.com/parents/">
+                <img src="screenshots/parents-responsive.png" width="300" alt="" />
+                Parents &amp; Students
+                </a>
+              </li>
+              <li>
+                <a href="http://azusadistrict.jimthoburn.com/schools/">
+                <img src="screenshots/schools-responsive.png" width="300" alt="" />
+                Schools
+                </a>
+              </li>
+            </ul>
+          </section>
+        </section>
+
+        <div style="clear: both"></div>
+
+        <section>
+          <section>
+            <h4>Content Management &amp; Hosting</h4>
+            <p>You can make changes to the reponsive website with a content management system called <a href="https://siteleaf.com">Siteleaf</a>. The website is hosted for free on <a href="https://github.com/jimthoburn/district">GitHub</a>.</p>
+            <ul>
+              <li>
+                <a href="https://siteleaf.com">
+                <img src="screenshots/site-leaf-pages.png" width="300" alt="" />
+                List of Pages
+                </a>
+              </li>
+              <li>
+                <a href="https://www.siteleaf.com">
+                <img src="screenshots/site-leaf-edit.png" width="300" alt="" />
+                Editing a page
+                </a>
+              </li>
+              <li>
+                <a href="https://siteleaf.com">
+                <img src="screenshots/site-leaf.png" width="300" alt="" />
+                Siteleaf CMS
+                </a>
+              </li>
+              <li>
+                <a href="https://pages.github.com">
+                <img src="screenshots/github.png" width="300" alt="" />
+                GitHub Hosting
+                </a>
+              </li>
+            </ul>
+          </section>
+        </section>
+        {% endcomment %}
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>
